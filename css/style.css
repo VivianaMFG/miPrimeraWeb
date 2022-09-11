@@ -1,0 +1,16 @@
+
+.slide {
+    margin-top:1px ;
+}
+
+.slide img {
+    height:70vh;
+}
+
+h1 {
+    color: grey;
+}
+
+form {
+    padding: 30px;
+}
