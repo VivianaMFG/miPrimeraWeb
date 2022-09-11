@@ -1,0 +1,12 @@
+Paso a Paso
+1. Iniciar un reposotorio en Github para el proyecto 
+2. Abrimos la consola de git bash here en cualquier ubicación del PC
+3. Clonamos el proyecto que se creó en el Github: git clone https://github.com/VivianaMFG/miPrimeraWeb.git
+4. Ingresamos a la carpeta clonada: cd miPrimeraWeb
+5. Abrir VSC: code .
+6. En consola: mkdir css, mkdir js, mkdir img, echo nul> index.html
+7. EN el index puede seguir una estructura como la del ejemplo creado inicialmente
+8. Para correr el proyecto por favor, clic derecho OPen with live server.
+9. Se recomienda buscar codigos de boostrap
+
+10. Para cargarlo al githube: git add ., git commit -m "versionXXX", git push
